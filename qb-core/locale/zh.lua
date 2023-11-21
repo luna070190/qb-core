@@ -14,7 +14,7 @@ local Translations = {
         received_paycheck = '你收到了你的工資 $%{value}',
         job_info = '職業: %{value} | 職位: %{value2} | 狀態: %{value3}',
         gang_info = '幫派: %{value} | 級別: %{value2}',
-        on_duty = '你現在上班了!',
+        on_duty = '你線在上班了!',
         off_duty = '你現在下班了!'
     }
 }
